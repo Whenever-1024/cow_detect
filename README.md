@@ -1,1 +1,3 @@
 # cow_detect
+yolov5_updated url:
+https://www.section.io/engineering-education/object-detection-with-yolov5-and-pytorch/
